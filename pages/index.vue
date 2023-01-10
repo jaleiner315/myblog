@@ -1,9 +1,15 @@
 <template>
-  <Home/>
+  <center>
+  <div>
+    <Navbar/>
+    <Home/>
+    <Footer/>
+  </div>
+  </center>
 </template>
 
 <script>
-export default {
+  export default {
   name: 'IndexPage'
-}
+  }
 </script>
