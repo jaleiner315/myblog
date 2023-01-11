@@ -2,24 +2,16 @@
 <template>
 	<div id="home">
     <div>
-        <center>
-            <h1 id="homepageheading">Hey Baddies!</h1>
-            <p class="homepagetext"> Follow me on Instagram! 
-            <a href="https://www.instagram.com/julie.aleiner/" target="_blank" id="instgramlink">
-                <br>
-                here's the link </a> </p>
-            <p class="homepagetext"> Follow me on Linkedin!
-            <a href="https://www.linkedin.com/in/julie-aleiner-27931522a/" target="_blank" id="linkedinlink">
-                <br>
-                here's the link </a> </p>
+        <h1 id=homepageheader> Welcome Baddies!!</h1>
+        <p id="homepagetext"> I'm a first year student at Columbia University studying mechanical engineering. I'm really passionate about foreign language and sustainability. A future in renewable energy and studying abroad are huge goals of mine :)
+        </p>
             <p class="homepagetext"> Check out my resume!
             <a href="https://drive.google.com/file/d/1rnSyOZL79n8rPCshVAJ9TIXGTjzeQnwk/view?usp=sharing" target="_blank" id="resumelink">
                 <br>
                 here's the link </a> </p>
             <br>
-        </center>
     </div>
-        <img src="Bridgepic.jpg" alt="Bridge pic image" width="329.4" height="556.2">
+        <img src="Bridgepic.JPEG" alt="Bridge pic image" width="329.4" height="556.2">
 	</div>
 </template>
 

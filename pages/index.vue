@@ -8,8 +8,14 @@
   </center>
 </template>
 
+<style>
+
+</style>
+
 <script>
-  export default {
-  name: 'IndexPage'
-  }
+export default{
+    mounted() {
+        document.body.style.backgroundColor = '#C1E1C1'
+    }
+}
 </script>
