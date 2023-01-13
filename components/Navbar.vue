@@ -4,6 +4,7 @@
             <NuxtLink to="/" id="home"> Home</NuxtLink>
             <NuxtLink to="/contact">Contact</NuxtLink>
             <NuxtLink to="/tourist">Tourism</NuxtLink>
+            <NuxtLink to="/Movies">Movies</NuxtLink>
         </ul>
     </div>
 </template>
