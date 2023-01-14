@@ -9,14 +9,12 @@
     <p class="contactpagetext">My phone number is 347-225-1934
         </p>
             <h1 id="connectpageheader"> Wanna connect?</h1>
-            <p class="contactpagetext"> Follow me on Instagram! 
+            <p class="contactpagetext"> Follow me on
             <a href="https://www.instagram.com/julie.aleiner/" target="_blank" id="instgramlink">
-                <br>
-                here's the link </a> </p>
-            <p class="contactpagetext"> Follow me on Linkedin!
+                Instagram!</a> </p>
+            <p class="contactpagetext"> Follow me on
             <a href="https://www.linkedin.com/in/julie-aleiner-27931522a/" target="_blank" id="linkedinlink">
-                <br>
-                here's the link </a> </p>
+                Linkedin! </a> </p>
     </center>
     <center>
         <Footer/>
