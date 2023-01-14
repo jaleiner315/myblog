@@ -6,9 +6,11 @@
 
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
-    .homepagetext{font-size: 15px;
-    color: blue;
-    font-family: 'Nunito', sans-serif;
-    }
-    
+    #Footer{
+        font-size: 15px;
+        color: black;
+        font-family: 'Nunito', sans-serif;
+        bottom: 0;
+        text-align: center;
+        }
 </style>

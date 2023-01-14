@@ -1,4 +1,4 @@
-<template>
+<template class="contact">
     <div>
         <Navbar/>
     <center>
@@ -18,12 +18,17 @@
                 <br>
                 here's the link </a> </p>
     </center>
+    <center>
+        <Footer/>
+    </center>
     </div>
 </template>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
-
+    body{
+        background-color:#C1E1C1;
+    }
     #contactpageheader{
         font-family:'Nunito', sans-serif;
         font-size: 40px;
@@ -36,14 +41,12 @@
 
     .contactpageheader{
         font-family:'Nunito', sans-serif;
-        font-size: 20px;
+        font-size: 30px;
+    }
+
+    .contactpagetext{
+        font-family:'Nunito', sans-serif;
+        font-size: 30px;
     }
 </style>
 
-<script>
-    export default{
-        mounted() {
-            document.body.style.backgroundColor = '#89CFF0'
-        }
-    }
-</script>
